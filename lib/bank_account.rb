@@ -21,6 +21,4 @@ class BankAccount
     @status == open && if balance > 0 ? true : false  
   end
     
-  
-end
 
