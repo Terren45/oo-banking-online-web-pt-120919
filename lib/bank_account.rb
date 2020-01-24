@@ -18,7 +18,7 @@ class BankAccount
   end
   
   def vaild 
-    @status == open && if balance > 0
+    @status == open && if balance > 0 ? 
     
 end
 
