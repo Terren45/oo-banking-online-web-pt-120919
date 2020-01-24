@@ -17,7 +17,7 @@ class BankAccount
    "Your balance is $#{@balance}."
   end
   
-  
+  def vaild 
     
 end
 
