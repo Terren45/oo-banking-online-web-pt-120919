@@ -11,4 +11,6 @@ class BankAccount
   
   def deposit
   @balance += 1000
+ end
 end
+
