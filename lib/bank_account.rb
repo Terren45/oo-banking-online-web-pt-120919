@@ -17,10 +17,10 @@ class BankAccount
    "Your balance is $#{@balance}."
   end
   
-  def vaild 
+  def vaild?
     @status == open && if balance > 0 ? true : false  
   end
     
-    def close
+  
 end
 
