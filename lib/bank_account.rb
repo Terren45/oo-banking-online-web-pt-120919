@@ -20,5 +20,8 @@ class BankAccount
   def vaild?
     @status == "open" && if balance > 0 ? true : false  
   end
+  
+  def close_account
+    
 end
 
