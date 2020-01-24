@@ -18,6 +18,7 @@ class BankAccount
   end
   
   def vaild 
+    @status = open
     
 end
 
